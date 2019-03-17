@@ -1,0 +1,9 @@
+{
+  "name": "sampletests",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "protractor": "5.4.2",
+    "protractor-pretty-html-reporter": "0.0.16"
+  }
+}
